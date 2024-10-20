@@ -3,6 +3,7 @@
 ### Experience
 ***JULY 2023 - PRESENT***
 #### Data Science Associate Consultant | ZS Associates | Bengaluru
+- Currently working on a project where the main task is to develop a risk progression module using Cox-PH models to check how the risks progress in course of time based on certain features.
 - Recent project was focussed on fraud detection in clinical trials, which has now been integrated into an automated pipeline scheduled to run monthly. The system identifies fabrications and anomalies within clinical trial data, providing risk signals to the internal audit team. The current pipeline significantly enhances the ability to gauge risk signals more effectively and in a faster, structured manner for early intervention and analysis. The improvement bolsters the confidence in the data submitted for clinical trials and results in substantial time and cost savings for the organisation.
 confidence of data submitted for clinical trials.
 - Worked on implementing a solution using LLMs which can improve performance and speed of translating queries used for quality checks across multiple real-world datasets, eliminating the intermediate step of using common data models.
