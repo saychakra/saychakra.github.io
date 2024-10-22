@@ -17,7 +17,7 @@ confidence of data submitted for clinical trials.
 - Analyzed claims data to generate metrics for identifying key healthcare providers and organizations which can be targeted by the brand to enable tailored digital therapies for rare mental disorders.
 - Worked on EMR data to build a data quality framework utilizing business rules and anomaly detection modules. This helped identify data quality issues across univariate, multivariate, and temporal spaces. Implemented a subspace-monitoring based algorithm which can help detect temporal anomalies in sparse, irregular time series.
 
-***NOV 2023 –JANUARY 2023***
+***NOV 2020 –JANUARY 2023***
 #### Decision Analytics Associate | ZS Associates | Bengaluru
 - Worked on the proof of concept for “prospective support arm” where the idea was to generate a synthetic arm using real-world EMR data which can help prospectively monitor patient characteristics based on the usage of different medications. This can help save millions of dollars during clinical trials and expedite the drug development phases by providing real-time insights for the patient characteristics for primary care medications within the therapeutic area.
 - Conducted comprehensive analysis of disease prevalence, comorbid conditions, treatment landscape and physician specialties leveraging claims data to identify lucrative market opportunities for a top pharmaceutical brand.
